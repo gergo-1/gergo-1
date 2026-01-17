@@ -1,3 +1,2 @@
 ### Hi there 👋
-Im a highschool student, and im intrested in computer science and robotics.
-Im also the team leader of the SEAT CanSat team.
+Im a highschool student studing computer science and im intrested in space engineering and robotics.
